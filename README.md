@@ -34,8 +34,3 @@ This is a simple C++ program for a car rental system where users can select and 
 
 [ANUM KOUSAR]
 
----
-
-**Note:** Make sure to customize the placeholders like `[Customer Name]`, `[Your Name]`, etc., with actual information relevant to your program.
-
-# Car-Rental-System
