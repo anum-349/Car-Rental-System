@@ -32,5 +32,5 @@ This is a simple C++ program for a car rental system where users can select and 
 
 ## Author
 
-[ANUM KOUSAR]
+ANUM KOUSAR
 
